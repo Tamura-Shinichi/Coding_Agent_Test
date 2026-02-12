@@ -25,3 +25,4 @@ python3 nested_loops.py
 ## 今後の予定
 - ループの数を変更
 - break/continueでの制御フローの追加
+- 九九も作るらしい、とレビューコメントを追加した
